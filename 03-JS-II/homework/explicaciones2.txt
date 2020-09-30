@@ -1,0 +1,4 @@
+- for te permite hacer algo una repetida cantidad de veces que nosotros le digamos
+- '&&' es cuando queres que dos(o mas) cosas sean verdadero
+- '||' es cuando queres que cualquiera de las dos cosas sean verdadero pero por lo menos una
+- '!' es cuando queres lo opuesto a lo que tenes, si es verdadero entonces seria falso y viceversa

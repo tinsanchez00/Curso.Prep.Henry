@@ -1,0 +1,1 @@
+arrays - funcionan como asientos en el cine donde pueden haber cosas o personas pero cada asiento tiene un numero, empezando por el asiento 0 y sirve para guardar muchas cosas que se relacionen en un solo lugar. Tambien es facil repetir alguna accion por cada persona sin importar si hay 2 o 100 ya que usamos un bucle.

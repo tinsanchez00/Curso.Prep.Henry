@@ -1,0 +1,5 @@
+- las variables funcionan como una caja en la que podes guardar cosas y darle un nombre a la caja para diferenciarla o usarla luego
+- Strings son donde podes guardar texto ya sean letras, numeros o simbolos
+- funciones es como darle alguien un par de cosas(argumentos) y perdirle que haga algo con ellas y al final le puedes pedir que te devuelva una(return)
+- 'if' se usa cuando solo queres que algo pase si y solo si el requisito que nosotros le pedimos se cumple.
+- 'booleanos' 'true' cuando algo es cierto como 1 + 1 = 2 y 'false' cuando algo no es cierto 1 + 1 = 3
