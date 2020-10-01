@@ -1,0 +1,9 @@
+objetos- usualmente cuando creamos objetos buscamos modelar algo de la vida real a su equivalente en codigo, que vendria ser sus propiedades importantes(para nosotros) como por ejemplo una persona tiene nombre, edad, etc. Y su comportamiento para el cual utilizamos metodos.
+
+propiedades- a los objetos le podemos agregar propiedades dandoles un nombre y un valor, como seria "pelo" el nombre (o key) y "rubio" el valor (value); luego le preguntamos a cada persona que pelo tiene y nos dira en cada caso algo distinto.
+
+metodos- un metodo podria ser una accion que realiza una persona como por ejemplo "juan.saludar()" el cual podria decir algo como 'Hola!', al cual le podemos pasar instrucciones mas especificas, "juan.saludar('pepe')" y obtener 'Hola pepe!'
+
+for..in- seria el equivalente a ir hasta un grupo de personas y ir preguntando su nombre a cada uno para luego poder llamarlos ya que no estan ordenados para llamarlos por numero.
+
+notaciones- utilizamos puntos cuando queres preguntar por algo especifico como "pelo" en el ej anterior, pero si no supieramos que es lo que se va a preguntar utilizariamos corchetes y una variable, "juan[preguntaDelUsuario]"
