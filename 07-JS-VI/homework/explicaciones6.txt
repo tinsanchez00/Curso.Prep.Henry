@@ -1,0 +1,1 @@
+los callback son como acciones que guardamos en cajas para despues usarlas de distintas formas con distintas cosas, como por ejemplo "restar dos numeros"
