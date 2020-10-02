@@ -1,0 +1,2 @@
+prototypes- si usamos como ejemplo de objeto una persona, el prototype es la persona que copian todas las demas personas que esten relacionadas con el, si el prototype puede correr todas las demas personas pueden, asi cada persona tiene las cualidades de si misma y de su prototype.
+constructor- los constructores nos dira que necesita cada persona para "nacer" y como lo hace, como por ejemplo que todas llevan pelo y en cada creacion se elige el color de cada una por ejemplo.
