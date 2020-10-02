@@ -1,0 +1,32 @@
+h1, h3 ,h4 {
+    color: blueviolet;
+}
+body {
+    background-image: url("wallpaper.png");
+    background-color: #cccccc;
+   }
+img{
+    width: 400px;
+}
+.divClass{
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+#thirdDiv{
+
+
+    height: 600px;
+    width: 500px;
+    background-color: rgb(74, 18, 126);
+    padding: 50px;
+    border: 2px solid crimson;
+    margin: auto;
+}
+#spanId{
+    color: blueviolet;
+    font-size: 18px;
+    margin: 50px;
+}
+
